@@ -1,11 +1,85 @@
 {
   "project": "GAL Napoca Porolissum",
-  "title": "Schimb de experiență – Sardinia",
+  "title": "Vizită de studiu Sardinia · 7–12 iunie 2026",
   "headline": "Bun venit în Sardinia!",
-  "subtitle": "Vă mulțumim că sunteți alături de noi. Programul complet va fi disponibil în curând.",
+  "subtitle": "Programul vizitei de studiu este disponibil mai jos. Orele și activitățile pot suferi mici ajustări în funcție de organizațiile gazdă.",
   "period": "7–12 iunie 2026",
-  "location": "Sardinia, Italia",
-  "status": "Programul va fi comunicat imediat ce este finalizat.",
-  "footer": "GAL Napoca Porolissum · Schimburi de experiență 2026",
-  "lastUpdated": "2026-06-06"
+  "location": "Bosa și nord-vestul Sardiniei, Italia",
+  "status": "Activitățile din program sunt obligatorii. Versiunea finală va fi confirmată pe teren.",
+  "footer": "Proiect PEO · Cod SMIS 308485 · GAL Napoca Porolissum",
+  "lastUpdated": "2026-06-06",
+  "highlights": [
+    {"label": "Sosire", "value": "Alghero (AHO), 7 iunie, 07:25"},
+    {"label": "Cazare", "value": "Giardini Malaspina, Bosa"},
+    {"label": "Plecare", "value": "Alghero (AHO), 12 iunie, 21:25"}
+  ],
+  "program": [
+    {
+      "date": "07.06.2026",
+      "title": "Sosire și cazare",
+      "items": [
+        "Sosire la Alghero, transfer la Bosa, check-in și acomodare.",
+        "Fără activități planificate."
+      ]
+    },
+    {
+      "date": "08.06.2026",
+      "title": "Bosa – Fertilia",
+      "items": [
+        "09:30 – Sesiune de deschidere cu salutări instituționale.",
+        "10:30 – Transfer la Fertilia, sediul FLAG Nord Sardegna.",
+        "11:15 – Atelier CLLD: conexiuni între lanțuri de aprovizionare, experimente și comunități de proiect.",
+        "13:00 – Pauză de prânz oferită de FLAG Nord Sardegna.",
+        "14:30 – Raportarea concluziilor sesiunii de dimineață.",
+        "15:30 – Închiderea programului."
+      ]
+    },
+    {
+      "date": "09.06.2026",
+      "title": "Beneficiari GAL Logudoro Goceano",
+      "items": [
+        "Dimineață – Timp liber.",
+        "14:00 – Transfer pentru întâlnirea cu beneficiarii GAL Logudoro Goceano.",
+        "Bonorva – spațiu de co-working și studio de arhitectură.",
+        "Parco Mariani (Bonorva).",
+        "Cossoine – îmbunătățirea serviciilor municipale."
+      ]
+    },
+    {
+      "date": "10.06.2026",
+      "title": "Torralba – Siligo",
+      "items": [
+        "09:30 – Vizită la atelierul de croitorie al Francescăi Saiu, Pozzomaggiore.",
+        "10:30 – Transfer la Torralba.",
+        "11:00 – Nuraghe Santu Antine – tur ghidat cu echipa cooperativei Pintadera.",
+        "13:00 – Transfer la centrul social din Siligo; pauză de prânz oferită de GAL Logudoro Goceano.",
+        "15:00 – Sesiune de lucru la centrul social din Siligo."
+      ]
+    },
+    {
+      "date": "11.06.2026",
+      "title": "Teritoriul GAL Terras de Olia",
+      "items": [
+        "10:00 – Început de itinerar pentru întâlnirea cu beneficiari și start-up-uri locale.",
+        "10:30 – Sennariolo: magazinul teritorial și info-point Sa Pischina.",
+        "11:30 – Cuglieri Excursions.",
+        "12:30 – Cuglieri: Fattoria Didattica Marianna Osa, Azienda Agricola Francesca Masia."
+      ]
+    },
+    {
+      "date": "12.06.2026",
+      "title": "Bonassai – Plecare",
+      "items": [
+        "11:00 – Vizită la centrul de cercetare Agris, Bonassai.",
+        "21:25 – Zbor de întoarcere Alghero → București; aterizare 13.06, ora 00:55."
+      ]
+    }
+  ],
+  "practical": [
+    "Zbor dus: București (OTP) 05:45 → Alghero (AHO) 07:25, Wizz Air W4 3299.",
+    "Zbor întors: Alghero (AHO) 21:25 → București (OTP) 00:55, Wizz Air W4 3170.",
+    "Bagaj inclus: geantă mică 40 × 30 × 20 cm și troller cabină 10 kg, 55 × 40 × 23 cm. Nu este inclus bagaj de cală.",
+    "Documente: carte de identitate sau pașaport valabil; CEAS recomandat.",
+    "Fus orar: identic cu România. Urgențe Italia: 112."
+  ]
 }
